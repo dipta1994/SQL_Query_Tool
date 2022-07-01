@@ -1,0 +1,552 @@
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 16:38:47',
+TagReadDateTime='2022-06-28 16:38:47 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN64P6187';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 17:05:59',
+TagReadDateTime='2022-06-28 17:05:59 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='KL20Q1479';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 17:08:33',
+TagReadDateTime='2022-06-28 17:08:33 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN57BL3753';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 18:01:40',
+TagReadDateTime='2022-06-28 18:01:40 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='KL04AC1000';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 18:02:26',
+TagReadDateTime='2022-06-28 18:02:26 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN42AE5608';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 17:09:3',
+TagReadDateTime='2022-06-28 17:09:3 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN57AL0056';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 18:12:9',
+TagReadDateTime='2022-06-28 18:12:9 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN30AQ9630';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 18:18:7',
+TagReadDateTime='2022-06-28 18:18:7 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN75AU1136';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 18:12:54',
+TagReadDateTime='2022-06-28 18:12:54 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN18BC2642';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 18:19:23',
+TagReadDateTime='2022-06-28 18:19:23 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN81A2485';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 18:36:15',
+TagReadDateTime='2022-06-28 18:36:15 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN72BE1199';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 18:53:55',
+TagReadDateTime='2022-06-28 18:53:55 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN72AC7063';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 19:09:37',
+TagReadDateTime='2022-06-28 19:09:37 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN28BA1135';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 19:00:35',
+TagReadDateTime='2022-06-28 19:00:35 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN28BH5056';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 18:56:26',
+TagReadDateTime='2022-06-28 18:56:26 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN60AJ0558';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 19:13:13',
+TagReadDateTime='2022-06-28 19:13:13 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN42T2232';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 20:09:39',
+TagReadDateTime='2022-06-28 20:09:39 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN29AY0789';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 20:51:57',
+TagReadDateTime='2022-06-28 20:51:57 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN30P7332';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 20:28:5',
+TagReadDateTime='2022-06-28 20:28:5 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN75E3799';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 20:53:53',
+TagReadDateTime='2022-06-28 20:53:53 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN10AK3763';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 21:08:48',
+TagReadDateTime='2022-06-28 21:08:48 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN74AS7117';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 21:10:16',
+TagReadDateTime='2022-06-28 21:10:16 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN05AW4909';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 21:17:40',
+TagReadDateTime='2022-06-28 21:17:40 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN58N1005';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-28 21:53:2',
+TagReadDateTime='2022-06-28 21:53:2 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN72CY7410';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 01:08:32',
+TagReadDateTime='2022-06-29 01:08:32 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN95B3829';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 01:33:32',
+TagReadDateTime='2022-06-29 01:33:32 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN74AY2614';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 01:52:48',
+TagReadDateTime='2022-06-29 01:52:48 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN04AE3177';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 02:04:15',
+TagReadDateTime='2022-06-29 02:04:15 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN52M7908';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 02:19:10',
+TagReadDateTime='2022-06-29 02:19:10 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN64C5353';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 02:24:2',
+TagReadDateTime='2022-06-29 02:24:2 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN737399';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 02:34:47',
+TagReadDateTime='2022-06-29 02:34:47 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN74N1780';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 03:29:40',
+TagReadDateTime='2022-06-29 03:29:40 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN75AJ5902';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 03:32:42',
+TagReadDateTime='2022-06-29 03:32:42 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN72Q6491';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 03:33:22',
+TagReadDateTime='2022-06-29 03:33:22 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN74AD7571';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 03:50:40',
+TagReadDateTime='2022-06-29 03:50:40 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN74AJ4555';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 03:53:5',
+TagReadDateTime='2022-06-29 03:53:5 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN72CX4637';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 03:51:20',
+TagReadDateTime='2022-06-29 03:51:20 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN58BA0778';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 04:16:2',
+TagReadDateTime='2022-06-29 04:16:2 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN37DJ9682';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 04:17:38',
+TagReadDateTime='2022-06-29 04:17:38 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN72BP5577';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 05:08:5',
+TagReadDateTime='2022-06-29 05:08:5 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN91Z8787';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 05:51:50',
+TagReadDateTime='2022-06-29 05:51:50 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='KL07CX7384';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 06:12:55',
+TagReadDateTime='2022-06-29 06:12:55 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN57AS5611';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 06:03:8',
+TagReadDateTime='2022-06-29 06:03:8 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN37DW8037';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 06:14:31',
+TagReadDateTime='2022-06-29 06:14:31 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN72CX4637';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 06:19:51',
+TagReadDateTime='2022-06-29 06:19:51 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN58AT7497';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 06:19:55',
+TagReadDateTime='2022-06-29 06:19:55 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN69V9198';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 06:21:47',
+TagReadDateTime='2022-06-29 06:21:47 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN72BR5981';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 06:25:53',
+TagReadDateTime='2022-06-29 06:25:53 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN72AA9100';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 06:50:16',
+TagReadDateTime='2022-06-29 06:50:16 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN69J5647';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 06:28:36',
+TagReadDateTime='2022-06-29 06:28:36 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN74AK9095';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 07:18:44',
+TagReadDateTime='2022-06-29 07:18:44 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='KL819309';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 07:20:27',
+TagReadDateTime='2022-06-29 07:20:27 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN75AS5331';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 07:24:49',
+TagReadDateTime='2022-06-29 07:24:49 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN72AH5370';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 07:25:24',
+TagReadDateTime='2022-06-29 07:25:24 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN67AE7054';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 07:40:21',
+TagReadDateTime='2022-06-29 07:40:21 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN41C7117';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 07:37:46',
+TagReadDateTime='2022-06-29 07:37:46 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN95F3919';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 07:55:3',
+TagReadDateTime='2022-06-29 07:55:3 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN99J1197';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 07:55:54',
+TagReadDateTime='2022-06-29 07:55:54 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='KL01Z6504';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 07:56:27',
+TagReadDateTime='2022-06-29 07:56:27 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN78MA3417';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 08:03:17',
+TagReadDateTime='2022-06-29 08:03:17 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN72BR5981';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 08:03:32',
+TagReadDateTime='2022-06-29 08:03:32 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN69L0164';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 08:16:46',
+TagReadDateTime='2022-06-29 08:16:46 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN67BM6104';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 08:48:52',
+TagReadDateTime='2022-06-29 08:48:52 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN72BR5981';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 08:56:8',
+TagReadDateTime='2022-06-29 08:56:8 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='KA01AG9041';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 08:56:16',
+TagReadDateTime='2022-06-29 08:56:16 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN69BH901';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 08:57:2',
+TagReadDateTime='2022-06-29 08:57:2 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='KA01AG9034';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 09:08:25',
+TagReadDateTime='2022-06-29 09:08:25 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN72AK3709';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 06:23:19',
+TagReadDateTime='2022-06-29 06:23:19 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN42T9722';
+
+update tms_Transaction_ETC set 
+TransactionDateTime='2022-06-29 10:30:30',
+TagReadDateTime='2022-06-29 10:30:30 '
+ where CreatedOn>'2022-06-28 00:00:00'
+and CreatedOn<'2022-06-30 00:00:00' 
+and Attribute_1='AA Device'
+and VehicleNumber='TN96E1111';
+
